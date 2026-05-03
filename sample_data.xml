@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<entries>
+    <entry>
+        <type>Workout</type>
+        <category>Cardio</category>
+        <duration_quantity>30 min</duration_quantity>
+        <calories>250</calories>
+        <date>2025-02-04</date>
+    </entry>
+    <entry>
+        <type>Meal</type>
+        <category>Lunch</category>
+        <duration_quantity>1 plate</duration_quantity>
+        <calories>550</calories>
+        <date>2025-02-04</date>
+    </entry>
+    <entry>
+        <type>Workout</type>
+        <category>Strength</category>
+        <duration_quantity>40 min</duration_quantity>
+        <calories>350</calories>
+        <date>2025-02-05</date>
+    </entry>
+</entries>
